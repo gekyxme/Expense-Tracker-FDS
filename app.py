@@ -25,4 +25,4 @@ def classify_text():
     return jsonify({'predicted_label': predicted_label})
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=False, host='0.0.0.0')
