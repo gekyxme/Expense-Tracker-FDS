@@ -1,14 +1,11 @@
 from flask import Flask, request, jsonify
-import pickle
+import joblib
 
 app = Flask(__name__)
 
 # Load trained model and vectorizer
-with open('../models/exp_classifier.pkl', 'rb') as f:
-    classifier = pickle.load(f)
-
-with open('../models/tfidf_vectorizer.pkl', 'rb') as f:
-    vectorizer = pickle.load(f)
+classifier = joblib.load('./models/exp_classifier.joblib')
+vectorizer = joblib.load('./models/tfidf_vectorizer.joblib')
 
 @app.route('/')
 def index():
