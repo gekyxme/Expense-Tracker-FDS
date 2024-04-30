@@ -1,0 +1,523 @@
+expense_intent,expense
+Transportation,This is a tip paid for an Uber ride. Rs 4
+Transportation,Uber trip from the hospital to my house. Rs 11.8
+Rent & Utilities,Rideshare charges for two rides. Rs 20.64
+Transportation,Rideshare charges for two rides. Rs 20.64
+Transportation,This was the cost of taking two Lyft rides in Florida. Rs 93.45
+Transportation,Purchase $20 of gas from Exxon. Rs 20
+Transportation,Payment for Lyft car ride. Rs 15.4
+Transportation,Uber trip payment. Rs 18.42
+Transportation,"Online purchase of Amtrak train ticket, two-way trip. Rs 108"
+Transportation,Parking fees. Rs 19
+Travel,Hotel room for a night at a friend's wedding. Rs 195
+Travel,I bought a plane ticket. Rs 616.24
+Travel,Car rental charge. Rs 91.24
+Transportation,Reloaded bus card. Rs 20
+Transportation,I needed to use Uber for transportation home. Rs 18.95
+Transportation,This is a pay-by-phone parking!. Rs 6.15
+Transportation,I got a bit of gas. Rs 21.39
+Travel,Payment hotel bill. Rs 310.1
+Transportation,Gas station. Rs 10.55
+Travel,Passport Fees. Rs 130
+Transportation,Replenishment of Sun Pass account (highway tolls). Rs 10
+Medical,This was for prescription medicine. Rs 11.99
+Loans,I made a payment on an installment loan I have with OppLoans. Rs 158.59
+Medical,I bought some cough drops from the duty free store at the airport. Rs 9.86
+Medical,I had to pay for a covid test. Rs 149
+Loans,This is a monthly fee I pay for an Affirm purchase. Rs 29.52
+Medical,This was for prescription medicine. Rs 11.99
+Loans,Credit card payment. Rs 792.08
+Medical,Payment on medical bill. Rs 16.47
+Loans,It was for paying off a Capital One credit card statement. Rs 560
+Rent & Utilities,Electricity and gas combined bill. Rs 122
+Loans,Mortgage payment. Rs 842.63
+Medical,Copays for doctor visits. Rs 25
+Rent & Utilities,This is my electricity/energy bill. Rs 57.39
+Medical,I paid for some medicine. Rs 20.64
+Rent & Utilities,I paid my Internet bill. Rs 75.55
+Medical,Doctor's appointment. Rs 160
+Loans,I made a payment on an installment loan that was for a big purchase. Rs 101.7
+Rent & Utilities,I used PayPal to pay an installment payment on my power bill. Rs 82.6
+Loans,Payment on Affirm loan. Rs 12.57
+Rent & Utilities,This is my electricity bill. Rs 93.15
+Medical,This is for my dog's 6 month supply of flea and tick meds. Rs 148.49
+Loans,It was making a payment towards my Capital One credit card balance. Rs 100
+Rent & Utilities,I paid my electric bill. Rs 144.9
+Rent & Utilities,Electric bill. Rs 270.43
+Loans,Loan payment. Rs 10.5
+Loans,Credit card payment. Rs 103
+Rent & Utilities,I was paying my electric bill. Rs 279.8
+Rent & Utilities,Paid the electric bill. Rs 37.99
+Rent & Utilities,I paid part of the electricity bill. Rs 52.13
+Transportation,This is for gas for my car. Rs 50.07
+Transportation,This was for my car inspection. Rs 25.5
+Rent & Utilities,I paid my phone bill. Rs 112.46
+Loans,"This is our mortgage payment!. Rs 2,182.38"
+Rent & Utilities,Monthly Internet bill for Xfinity/Comcast. Rs 64.87
+Loans,Credit Card Payment. Rs 35
+Medical,Amount not covered by health insurance and owed to primary physician. Rs 0.65
+Transportation,Payment made to a garage for my car's MOT (UK road worthiness certificate). Rs 35
+Rent & Utilities,Cell Phone bill. Rs 145.81
+Rent & Utilities,Water bill. Rs 70.24
+Rent & Utilities,Online Payment for water bill. Rs 70
+Rent & Utilities,I paid my monthly apartment rent cost to the property management company. Rs 945
+Transportation,I bought gas at the gas station. Rs 30.05
+Medical,I got a rapid Covid test. Rs 54.36
+Rent & Utilities,Bill pay sent via check through bank to landlord for rent. Rs 550
+Transportation,This is for a car wash. Rs 11
+Rent & Utilities,This is for my internet bill. Rs 160
+Transportation,Gas purchase gas station. Rs 37.91
+Rent & Utilities,I paid my internet bill. Rs 160
+Transportation,This was for my vehicle registration. Rs 73.25
+Rent & Utilities,Annual Sewer Bill. Rs 166.44
+Rent & Utilities,I paid the water bill. Rs 53.4
+Rent & Utilities,I paid for my phone bill (Xfinity Mobile). Rs 112.48
+Rent & Utilities,Monthly mobile phone payment by the gig data plan. Rs 21.99
+Transportation,I bought gas. Rs 25.07
+Transportation,Payment for onstar services auto monthly fee. Rs 39.99
+Rent & Utilities,This is for my mobile phone payment. Rs 112.48
+Transportation,I filled my van with some gas. Rs 26.45
+Transportation,This is for some replacement windscreen wipers for my car. Rs 20
+Rent & Utilities,Water utility bill. Rs 103.8
+Rent & Utilities,Cell phone payment. Rs 35
+Rent & Utilities,I made a payment on my phone bill. Rs 200
+Rent & Utilities,Mobile phone bill. Rs 7.5
+Transportation,Filling the car with petrol. Rs 54.84
+Medical,This is a charge from a cannabis dispensary. Rs 88.5
+Medical,I made a payment towards a medical bill. Rs 29.26
+Transportation,I bought a couple bucks of gas. Rs 9.92
+Transportation,Purchased gasoline. Rs 16.54
+Rent & Utilities,Monthly cell phone usage. Rs 18.03
+Rent & Utilities,Monthly electricity payment for apartment. Rs 116.65
+Rent & Utilities,Cell phone bill payment. Rs 30
+Rent & Utilities,I paid my phone bill. Rs 100
+Loans,Payment on credit card. Rs 22
+Rent & Utilities,I put some money towards the internet bill. Rs 40
+Rent & Utilities,Payment to Verizon for internet service. Rs 47.23
+Transportation,This was for my vehicle registration. Rs 73.25
+Rent & Utilities,This is my internet bill. Rs 49.99
+Rent & Utilities,This is my energy bill. Rs 82.6
+Medical,Medicine. Rs 28.88
+Rent & Utilities,I paid my monthly cost on my electric bill. Rs 63.01
+Medical,Made a purchase at a dispensary. Rs 38.5
+Rent & Utilities,I paid off some of my internet bill. Rs 186.01
+Loans,Credit card payment. Rs 6.25
+Medical,This is my dental insurance!. Rs 12.99
+Loans,Chase credit card payment. Rs 20.5
+Loans,Credit card payment. Rs 920.96
+Loans,Online mortgage payment. Rs 668.29
+Loans,Credit card payment. Rs 100
+Loans,Credit card payment. Rs 63.07
+Loans,Credit card payment. Rs 91
+Medical,Purchase at a medical supply company. Rs 31.2
+Loans,Citi credit card payment. Rs 37.5
+Loans,I received a deposit from the installment loan I made a draw from. Rs 150
+Medical,Paid for prescriptions to be delivered to my house. Rs 20.25
+Loans,This is paying my credit card bill. Rs 190.25
+Medical,This is our dog's pet insurance!. Rs 35.95
+Medical,I bought some muscle cream from the pharmacy. Rs 16.94
+Loans,Mortgage payment. Rs 900
+Loans,Credit card payment. Rs 7.41
+Loans,HELOC payment. Rs 113.83
+Loans,"Payment made to Amex to pay off a credit card bill. Rs 1,385.11"
+Rent & Utilities,I paid for my internet bill. Rs 205.37
+Loans,This was a payment on my American Express credit card. Rs 100
+Government + Non-Profit,Political Donation. Rs 25
+General Services,I bought a study course. Rs 153
+General Services,Six month car insurance premium. Rs 443
+General Services,I was refunded for antivirus services that were charged. Rs 106.24
+Government + Non-Profit,I donated to a animal charity. Rs 25.73
+General Services,Postage costs at the Post Office. Rs 6.85
+Government + Non-Profit,Online Donation. Rs 20.85
+General Services,I was charged for antivirus services. Rs 106.24
+Income,This is a credit for interest on a savings account balance. Rs 1.35
+Income,I got paid for some freelance work. Rs 26.27
+General Services,Pell Grant refund. Rs 517.83
+Government + Non-Profit,City council tax bill. Rs 185
+Income,Interest payment for my savings account. Rs 0.06
+Income,Cashed a personal check through mobile app. Rs 4.56
+Income,Payment for writing work that I did. Rs 86.12
+General Services,I paid my health insurance premium. Rs 7.08
+Loans,"Paid credit card off. Rs 1,407.00"
+Government + Non-Profit,This was for tax completion software for five people. Rs 70.31
+Income,Wages from my job. Rs 886.21
+General Services,I paid for my Microsoft Subscription. Rs 6.99
+Loans,Credit card payment. Rs 97.81
+Loans,This is my credit card payment!. Rs 217.14
+Income,Income from freelance work that I completed. Rs 150
+Income,Deposited a check for Child Support. Rs 841
+Income,Monthly interest paid by my Capital One saving account. Rs 6.29
+Income,Interest payment from my bank. Rs 0.16
+Income,Interest from my checking account. Rs 0.03
+Loans,Credit card payment. Rs 63.39
+Loans,"It was paying off a Capital One credit card statement. Rs 1,101.65"
+Loans,Paid balance on Amazon Credit Card. Rs 269.64
+Government + Non-Profit,Sent $20 via Zella to Solid Rock Community Church. Rs 20
+Income,Interest paid on account. Rs 0.06
+General Services,"Money paid for my daughter's nursery fees. Rs 1,181.92"
+Income,I earned interest from my checking account. Rs 0.25
+Income,Child support direct deposit received. Rs 420.5
+Income,This is a tax refund. Rs 531
+Income,Investment returns from the Stash app. Rs 3.55
+General Services,Payment for Lawn Services. Rs 65
+Government + Non-Profit,Donation to a non profit made through paypal. Rs 25
+General Services,Auto Bi monthly Auto Insurance payment. Rs 101.59
+General Services,This is a gym membership. Rs 63.13
+General Services,Payment for Amazon Prime. Rs 6.99
+General Services,I paid for a professional membership. Rs 130
+General Services,Payment via fbpay for lawn service. Rs 30
+Income,Transfer from investment account. Rs 438.94
+Loans,This is for my car payment. Rs 564.73
+General Services,I paid for my Amazon Prime subscription. Rs 14.08
+Government + Non-Profit,Paid balance owed on fines owed from citation. Rs 152.75
+General Services,This is for my Amazon Prime membership. Rs 7.7
+General Services,This is my car insurance monthly premium. Rs 98.99
+General Services,I paid my insurance premium. Rs 15.54
+General Services,This is my annual home insurance premium. Rs 270.42
+General Services,Ancestry. Com membership. Rs 39.99
+General Merchandise,This was for a strap to help working out. Rs 6.48
+Income,"Social Security Disability Monthly Benefits. Rs 1,201.00"
+General Services,Money paid for Google Cloud's extra storage. Rs 1.99
+General Services,I was charged for antivirus services. Rs 106.24
+Government + Non-Profit,Donation animal rescue. Rs 52.23
+General Services,College tuition. Rs 573.75
+General Services,"Money paid to a government service to save tax on childcare costs. Rs 1,300.00"
+Government + Non-Profit,Donated money to friend's GoFundMe page. Rs 25
+Loans,"This is the payment of my credit card bill. Rs 1,043.24"
+Government + Non-Profit,This is a donation to an animal charity organization. Rs 25
+Loans,This is for a car payment. Rs 564.73
+Income,"This is money earned through a grocery coupon app, Ibotta. Rs 20"
+Income,I got paid for some writing work I did. Rs 166
+General Services,This is my iCloud storage for the month!. Rs 5.33
+Loans,Monthly payment to a debt recovery/collection agency service. Rs 5.82
+Government + Non-Profit,I paid my quarterly taxes. Rs 500
+Income,I received an interest payment from the bank. Rs 0.1
+Income,This is money received from a cashback rewards website. Rs 30.3
+General Services,Money sent to the local resident's association related to have my driveway resurfaced. Rs 210
+Loans,Discover card payment. Rs 120
+Loans,Monthly payment on walmart credit card. Rs 120
+Loans,Credit Card payment. Rs 27
+Loans,This is our credit card payment!. Rs 198.57
+Government + Non-Profit,Auto-payment to the IRS for taxes owed. Rs 600
+Government + Non-Profit,Automatic payment to Massachusetts Department of Revenue for taxes owed. Rs 100
+Loans,Biweekly auto loan payment. Rs 64.31
+Income,Payment for freelancing work performed online. Rs 73.16
+Government + Non-Profit,This was to pay our accountant for taxes!. Rs 300
+General Services,Health insurance payment. Rs 20.85
+Loans,Credit card payment to Capital One. Rs 25.19
+General Services,Adobe Photoshop monthly plan. Rs 10.59
+Loans,Balance payment on Amazon store card. Rs 70.94
+General Services,Apple iCloud storage. Rs 3
+Income,I got paid for some writing work that I did. Rs 10.07
+Loans,This is for my car payment. Rs 264.73
+Income,Payment from my job. Rs 329
+Loans,Credit Card Payment. Rs 30
+Income,Salary from my job. Rs 88.7
+Government + Non-Profit,This was a donation I made on GoFundMe to a Uvalde victim’s family. Rs 10.5
+Income,Income received from Patreon subscribers for my art. Rs 43.31
+Income,"Direct Deposit from Job. Rs 1,189.15"
+Income,Payment for work. Rs 5.37
+Loans,This is my car payment. Rs 563.39
+Income,This is just general interest from the bank. Rs 0.05
+Income,A credit from the local city council for over-payment made. Rs 150
+Income,This is income from gig work. Rs 12.52
+General Merchandise,A book from a bookshop. Rs 4.97
+Food & Drink,Food from Red lobster. Rs 10.46
+General Merchandise,I bought shoes for a wedding. Rs 64.65
+Food & Drink,"This was for lunch, from a place called Salad and Go. Rs 14.16"
+General Merchandise,This is for a few shirts at a thrift store. Rs 7.58
+General Merchandise,This was for a Mother's Day gift. Rs 28.04
+Food & Drink,I had lunch at Taco Bell. Rs 14.69
+General Merchandise,Socks from Walmart. Com. Rs 5.83
+Food & Drink,Food purchase panera bread. Rs 54
+General Merchandise,Headphones from Amazon. Com. Rs 34.23
+Food & Drink,Dinner at a Chinese buffet. Rs 23
+General Merchandise,Purchased batteries and paint brushes. Rs 5.28
+General Merchandise,I got dog food. I had it delivered through DoorDash. Rs 39.11
+General Merchandise,Purchased pet supplies in store. Rs 4.62
+General Merchandise,This was a mixture of gift purchases and shopping. Rs 15.76
+Food & Drink,This is a restaurant. Rs 27.52
+General Merchandise,Purchase at Dollar Tree. Rs 7.97
+General Merchandise,Purchase of unicorn merchandise thru PayPal. Rs 50.95
+General Merchandise,I bought some random stuff from Amazon. Rs 131.5
+General Merchandise,Purchase of clothing items at Burlington. Rs 53.49
+General Merchandise,This was to buy a gift card online. Rs 95
+Food & Drink,I bought lunch from a roast beef place. Rs 9.36
+Food & Drink,Ordered Pizza. Rs 30.94
+General Merchandise,A book on Amazon. Rs 5.98
+General Merchandise,Monthly digital magazine subscription. Rs 3
+Food & Drink,For a quick meal at a burger restaurant. Rs 28.55
+General Merchandise,Pest spray for plants. Rs 15.34
+Food & Drink,This is a Pho place that also serves burgers. Rs 21.64
+Food & Drink,This is a dinner restaurant. Rs 38.34
+Food & Drink,This was for candy at a gas station. Rs 6.04
+Food & Drink,We had pizza from Little Caesars for dinner. Rs 21.28
+Food & Drink,I bought lunch for me and my spouse. Rs 20.1
+General Merchandise,Buying greetings cards from a website. Rs 3.64
+Food & Drink,I bought dinner for the family. Rs 45.42
+General Merchandise,This was for a disc for disc golf. Rs 12.99
+General Merchandise,Money spent on workout clothes and shoes. Rs 25.78
+General Merchandise,Needed to return a product to Amazon and received a refund. Rs 11.99
+General Merchandise,Refund for overcharging on gas. Rs 25.7
+Food & Drink,I bought food at a restaurant. Rs 26.02
+Food & Drink,This is a Dinner Restaurant!. Rs 47.09
+Food & Drink,I bought dinner. Rs 12.76
+Food & Drink,This was at a restaurant for lunch. Rs 27.98
+Food & Drink,Ordered dumplings on DoorDash. Rs 26.29
+Food & Drink,This was for a takeaway delivery. Rs 30.36
+Food & Drink,A refund from Uber Eats. Rs 34.24
+General Merchandise,Amazon purchase of bed sheets. Rs 26.25
+Food & Drink,Online payment for delivery from restaurant. Rs 36.67
+Food & Drink,Dining at Red Lobster. Rs 94.46
+General Merchandise,Online subscription to digital local newspaper. Rs 3.25
+General Merchandise,I bought a book for my child at the school book fair. Rs 11
+General Merchandise,Book purchases. Rs 49.87
+Food & Drink,I bought an energy drink at the airport. Rs 6.02
+Food & Drink,I bought pretzels while shopping at the mall. Rs 20.69
+Food & Drink,Paid for fast food lunch at Wendy's. Rs 14.87
+Food & Drink,Fast Food purchase. Rs 19.18
+Food & Drink,This is sandwiches for lunch. Rs 16.02
+Food & Drink,I ate some food at Pho U restaurant. Rs 21.64
+Food & Drink,Chinese food takeout for family. Rs 84.21
+General Merchandise,Computer parts. Rs 33.17
+General Merchandise,Purchase of paper goods at Walgreens. Rs 19.27
+General Merchandise,This was for fragrance refills. Rs 16.03
+General Merchandise,Refund for a return of viola case (musical) via paypal refund. Rs 120
+Food & Drink,This is a breakfast place. It was an order through their mobile app. Rs 4.7
+General Merchandise,Sporting equipment on Amazon. Rs 71.9
+General Merchandise,This is for flea medicine for my cat. Rs 70.96
+General Merchandise,Purchased items at Walmart. Rs 59.7
+General Merchandise,I bought a new backpack for hiking. Rs 63.58
+General Merchandise,Payment for monthly software fee for Adobe products. Rs 56.17
+General Merchandise,This is for my cat's prescription cat food. Rs 49.06
+Food & Drink,A breakfast out at a local restaurant. Rs 23.5
+General Merchandise,I got something for my house. Rs 23.86
+General Merchandise,This is a purchase of a trash can at Staples. Rs 15.93
+General Merchandise,I bought a textbook for a test I will take soon. Rs 112.3
+Food & Drink,This was for brunch!. Rs 40.76
+Food & Drink,Lunch purchase at restaurant. Rs 21.83
+General Merchandise,"I bought hand sanitizer, but it was like a 'fancy' hand sanitizer that was fragranced like a perfume. I would consider this one more 'beauty'. Rs 8.67"
+General Merchandise,Payment for printer ink subscription. Rs 4.23
+General Merchandise,Walgreens purchase of personal items. Rs 30.48
+General Merchandise,This is a gift of customised jewelry from an online marketplace. Rs 54.95
+Food & Drink,I walked to this restaurant to order some food. Rs 21.64
+General Merchandise,Online purchase skin care at Olay. Com. Rs 64.76
+Food & Drink,Bought lunch at a Chinese restaurant. Rs 12
+Food & Drink,Lunch at a restaurant. Rs 42.9
+General Merchandise,I purchased lipstick at Rite-Aid. Rs 7.2
+General Merchandise,This was for a pair of exercise shorts. Rs 8.43
+General Merchandise,This is a perfume subscription program. Rs 3.21
+General Merchandise,Some clothing purchases. Rs 26.1
+General Merchandise,I purchased a candle on Etsy. Rs 24.55
+General Merchandise,I bought a workout book. Rs 9.99
+Food & Drink,This was for lunch out. Rs 13.5
+General Merchandise,This was for some shirts I bought for my dad's birthday. Rs 35.7
+Food & Drink,I ordered pizza for dinner. Rs 43.6
+General Merchandise,I got some computer supplies off of Amazon. Rs 64.9
+Food & Drink,I bought a slice of pizza. Rs 2.13
+General Merchandise,Purchased some household items. Rs 70.3
+Food & Drink,A quick visit to Cinnabon for a coffee and pastry. Rs 3.49
+General Merchandise,I bought shaving stuff at the dollar store. Rs 9.18
+General Merchandise,I got some computer supplies off of Amazon. Rs 393.93
+Food & Drink,I bought a sandwich and some chips at a cafe. Rs 11
+General Merchandise,This is for a purchase of a used coffee maker on Facebook Marketplace. Rs 25
+Food & Drink,Groceries at Stop & Shop. Rs 47.87
+Food & Drink,"Got some Pizza Hut, as my brother wanted it. Rs 38.02"
+Food & Drink,I believe I ordered McDonald's here. Rs 31.55
+Food & Drink,I got some Qdoba since I hadn't had it in a while and was craving it. Rs 27.59
+Food & Drink,This was for a round of drinks in a bar. Rs 21.2
+Food & Drink,An order from Domino's Pizza. Rs 30.53
+Food & Drink,I ordered Denny's (a restaurant) off of DoorDash. Rs 23.6
+Food & Drink,Restaurant delivery. Rs 15.96
+Food & Drink,I got some Mexican food via DoorDash. Rs 26.54
+Food & Drink,Food at Wendy's. Rs 5.39
+Food & Drink,Food at Burger King. Rs 23.27
+Food & Drink,I got ice cream from Wendy's. Rs 4.69
+Food & Drink,This was an alcohol purchase on an Allegiant Airlines flight. Rs 15
+Food & Drink,Liquor. Rs 8.3
+Entertainment,Gem purchase in the game Guild Wars 2. Rs 21.25
+Food & Drink,This is a bar. Rs 10.63
+Food & Drink,A coffee from McDonald's. Rs 1.29
+Food & Drink,I had McDonald's for lunch. Rs 12.53
+Food & Drink,I got some Dairy Queen using DoorDash. Rs 29.9
+Food & Drink,I got some Subway sandwiches. Rs 18.2
+Food & Drink,I ordered food off of UberEats. I believe it was a restaurant. Rs 33.93
+Food & Drink,Iced coffee at Dunkin Donuts. Rs 3.41
+Food & Drink,Purchased tea from Kung Fu Tea. Rs 24.37
+Food & Drink,I purchased ice cream at ice cream shop. Rs 16.4
+Food & Drink,Ordered dinner from T-Swirl Crepe restaurant through Seamless delivery service. Rs 43.93
+Food & Drink,"I ordered some Qdoba, which is a restaurant chain. Rs 26.54"
+Entertainment,Made an in-app purchase. Rs 5.3
+Food & Drink,This is reloading my Starbucks funds on the mobile app. Rs 25
+Food & Drink,This is for the purchase of two coffees and a croissant. Rs 15.23
+Food & Drink,I ordered some food from McDonald's. Rs 33.95
+Food & Drink,I got some Taco Bell from DoorDash. Rs 23.5
+Food & Drink,Purchased groceries from Walmart Supercenter. Rs 15.18
+Food & Drink,I bought breakfast at a nearby McDonald’s. Rs 6.87
+Food & Drink,Ordered food from DoorDash. Rs 16.68
+Entertainment,Fortnite Crew pass from Epic Games. Rs 12.74
+Food & Drink,This is for coffee drinks. Rs 14.32
+Food & Drink,I had McDonald's delivered. Rs 27.49
+Entertainment,Videogame from steam. Rs 5.59
+Food & Drink,Coffees from Starbucks. Rs 7.15
+Food & Drink,Got some Pizza Hut for my brother and I. Rs 33.01
+Food & Drink,Purchased groceries at supermarket. Rs 81.9
+Food & Drink,This was for a boba tea. Rs 5.57
+Food & Drink,Coffee and muffins at Starbucks. Rs 11.5
+Food & Drink,I wanted some coffee in the morning. This is a coffee stand. Rs 17.19
+Food & Drink,I bought a drink an alcoholic drink at the Walgreens in Vegas. Rs 4.32
+Food & Drink,This is for the purchase of iced tea. Rs 5.81
+Food & Drink,Hadn't had Chipotle in a while so I wanted to have some delivered by DoorDash. Rs 18.89
+Food & Drink,"I got some Dairy Queen, which is a restaurant. Rs 33.03"
+Food & Drink,Purchased a drink from Starbucks. Rs 4.76
+Food & Drink,This was for groceries. Rs 20.38
+Food & Drink,I bought groceries. Rs 34.17
+Food & Drink,I got McDonald's again. I get food from there quite a bit when I can. Rs 25.76
+Food & Drink,Weekly meal service kit delivery. Rs 40.66
+Food & Drink,I ordered Chick-Fil A through DoorDash. Rs 25.32
+Food & Drink,Supermarket purchase of groceries. Rs 101.96
+Food & Drink,Purchase at Dollar General. Rs 17
+Food & Drink,I bought some groceries from Safeway using DoorDash. Rs 132.33
+Food & Drink,I ordered delivered grocery items via GoPuff. Rs 26
+Food & Drink,Purchased groceries from Whole Foods via Amazon Prime membership. Rs 39.36
+Food & Drink,I bought groceries for the week!. Rs 70.65
+Food & Drink,I bought groceries. Rs 8.61
+Food & Drink,Pudding from Amazon. Rs 10.61
+Food & Drink,I bought some grocery items from 7/11. Rs 19.02
+Food & Drink,Items from the supermarket. Rs 4
+Food & Drink,Walmart grocery purchase. Rs 4
+Food & Drink,I had groceries delivered. Rs 58.46
+Food & Drink,Walmart delivery tip. Rs 7
+Food & Drink,I spent some money on groceries. Rs 8.72
+Food & Drink,This is for bulk groceries. Rs 92.08
+Food & Drink,This was for a few groceries. Rs 18.53
+Food & Drink,Grocery purchase with cash back at register. Rs 177.7
+Food & Drink,I bought some groceries. Rs 44.18
+Food & Drink,Grocery delivery fees. Rs 14.07
+Food & Drink,This was from a grocery store trip. Rs 127.18
+Food & Drink,I bought an energy drink at Target. Rs 4.61
+Food & Drink,Bought groceries on Amazon. Rs 40.96
+Food & Drink,I bought candy on Amazon. Rs 41.57
+Food & Drink,I ordered some groceries using a delivery service. Rs 60.56
+Food & Drink,Got some groceries from Dollar Tree. Rs 12.83
+Food & Drink,Walmart grocery purchase. Rs 25.29
+Food & Drink,Groceries at Stop & Shop. Rs 52.61
+Food & Drink,A top up shop for small items from the supermarket. Rs 7
+Food & Drink,I ordered some groceries. Rs 15.73
+Food & Drink,This is for groceries. Rs 8.39
+Food & Drink,I went to a grocery store to get a few things. Rs 12.81
+Food & Drink,This was for a couple of items from the supermarket I'd ran out of. Rs 2.29
+Food & Drink,I spent some money on groceries. Rs 74.7
+Food & Drink,I bought some groceries items from 7/11. Rs 16.15
+Food & Drink,Grocery purchase at Aldi. Rs 72.19
+Food & Drink,I got a couple of food items at the Dollar Tree near me. Rs 10.33
+Food & Drink,I bought a few energy drinks. Rs 6.96
+Food & Drink,I got some coffee from a coffee shop. Rs 17.19
+Food & Drink,This is a grocery store where I purchased a few items. Rs 12.81
+Food & Drink,Grocery shopping. Rs 32.23
+Food & Drink,This is a dessert place!. Rs 23.5
+Entertainment,Money spent on a video game I play. Rs 2.99
+Food & Drink,This is for ice cream. Rs 6.47
+Food & Drink,I got some Burger King using DoorDash. Rs 21.91
+Food & Drink,Groceries from Publix. Rs 10.68
+Food & Drink,I ordered some Chipotle using DoorDash. Rs 18.71
+Bank Transfers,Money transferred to a share dealing account in order to buy some shares. Rs 500
+Entertainment,Monthly payment for my Netflix account. Rs 19.99
+Entertainment,I made my monthly payment for my Peacock streaming service. Rs 4.99
+Bank Transfers,ATM fees. Rs 3
+Bank Transfers,"Money I transferred to my joint account with my wife. Rs 2,200.00"
+Entertainment,Patreon membership. Rs 3
+Bank Transfers,Deposit from Capital One checking to Capital One savings. Rs 100
+Bank Transfers,Transfer between accounts. Rs 787.47
+Entertainment,Charged for streaming service add-ons. Rs 10.61
+Entertainment,This is for a purchase of a video game. Rs 5
+Entertainment,Used PayPal to pay for Disney+. Rs 8.8
+Entertainment,Tokens for mobile game through Google Play. Rs 5.3
+Bank Transfers,"Transfer from savings to checking. Rs 1,000.00"
+Entertainment,Microtransaction for a videogame via Stream. Rs 3.74
+Entertainment,I rented a movie on Prime video. Rs 3.24
+Bank Transfers,From Savings to Checkings account. Rs 160
+Entertainment,This is a music subscription. Rs 17.31
+Bank Transfers,Transfer from savings account to checking account. Rs 180
+Entertainment,Payment for streaming service. Rs 11.31
+Entertainment,This is a charge for a film streamed via Amazon Prime Video. Rs 1.99
+Entertainment,Monthly Spotify subscription service. Rs 10.69
+Entertainment,Streaming service charges. Rs 4.99
+Entertainment,This is for the Netflix streaming service. Rs 19.81
+Entertainment,Paid monthly subscription to Netflix. Rs 16.57
+Entertainment,Money spent on a video game. Rs 4.99
+Bank Transfers,Electronic transfer of $10 to TD Ameritrade. Rs 10
+Bank Transfers,I transferred funds to another checking account. Rs 300
+Entertainment,Monthly membership for online gaming site. Rs 24.95
+Bank Transfers,Transfer from one checking account to another. Rs 250
+Bank Transfers,Transfer money from savings to checking. Rs 100
+Entertainment,Fees for Paramount+ streaming service. Rs 4.99
+Entertainment,Recurring Spotify monthly subscription fee. Rs 11.3
+Entertainment,I paid for a streaming service off of Prime Video that wasn't Prime Video. Rs 5.49
+Entertainment,Youtube TV monthly streaming service. Rs 64.99
+Bank Transfers,"I transferred money into another account. Rs 1,101.20"
+Bank Transfers,I made a bank transfer and this was the side of the transaction that received the funds (I own both accounts). Rs 900
+Bank Transfers,Transfer from checking account to savings account. Rs 139.56
+Entertainment,This is for a magazine subscription. Rs 2
+Entertainment,I paid for my Disney Plus subscription. Rs 8.47
+Entertainment,Purchase of concert tickets. Rs 133.16
+Entertainment,Video game in-app purchase. Rs 3.18
+Entertainment,This is for my Disney Plus membership. Rs 8.8
+Bank Transfers,Money that I put into an IRA on the Alto app. Rs 10
+Entertainment,A payment made while at a museum for my children to go on a special ride. Rs 9
+Entertainment,Money I paid to the UK National Lottery website to buy a ticket. Rs 5
+Entertainment,Monthly Netflix fee. Rs 9.99
+Entertainment,This is entry for two people into a water park/public pool. Rs 26
+Bank Transfers,Transfer between checking accounts. Rs 35
+Entertainment,Money spent at a bowling alley during a family outing. Rs 19.97
+Entertainment,This is my monthly HBO Max subscription payment. Rs 14.99
+Bank Transfers,Fee incurred when cashing a mobile check and needing funds immediately. Rs 15
+Bank Transfers,Refunded for an incorrect transaction. Rs 12.73
+Bank Transfers,Reimbursement from Ally for ATM fees from other banks. Rs 10
+Bank Transfers,Reimbursed for ATM fees. Rs 3.5
+Bank Transfers,Fee for a foreign transaction. Rs 0.29
+Bank Transfers,ATM withdrawal. Rs 30
+Bank Transfers,Invested $100 dollars with Ground Floor for real estate investments. Rs 100
+Bank Transfers,This is a Banking Reward for using a restaurant they listed for the month. Rs 1.92
+Bank Transfers,I got a NSF fee for not having enough funds in my account. Rs 25
+Entertainment,I bought something in a video game. Rs 0.99
+Entertainment,In-app purchase. Rs 3.18
+Bank Transfers,Reimbursement from a friend. Rs 24.56
+Bank Transfers,Instant transfer from Venmo. Rs 4.75
+Bank Transfers,Transfer from a different checking account. Rs 500
+Bank Transfers,Transfer cash in from Paypal to my checking account. Rs 20
+Bank Transfers,Received money from a friend via Zelle. Rs 45
+Bank Transfers,Withdrawal of cash from bank ATM. Rs 240
+Bank Transfers,Money used to buy some cryptocurrency via paypal. Rs 254.5
+Bank Transfers,A payment from a friend made through Paypal. Rs 5.59
+Bank Transfers,Money transferred to my daughter's account on behalf of someone else as a Christmas present. Rs 25
+Bank Transfers,Transfer from my savings account to my checking for expenses. Rs 200
+Bank Transfers,Sent a friend money on Cash App. Rs 18
+Bank Transfers,Money sent by my wife to pay for a transaction made on my credit card. Rs 40
+Bank Transfers,Payment on Cash App to a friend of money that he lent me. Rs 10
+Bank Transfers,Fees reimbursed. Rs 3
+Bank Transfers,Transferred money from my Cash App account to my bank. Rs 39.3
+Bank Transfers,I got paid for some freelance work. Rs 57.33
+Bank Transfers,Fee incurred due to international purchase. Rs 0.37
+Entertainment,This is for the HBO Max streaming service. Rs 16.5
+Bank Transfers,I got charged for an accidental cash withdrawal. Rs 10
+Bank Transfers,ATM fees. Rs 5
+Bank Transfers,I received an instant transfer from Cash App. Rs 68.78
+Bank Transfers,Sent money to a friend. Rs 100
+Bank Transfers,ATM Withdrawal. Rs 63.25
+Bank Transfers,Sent money to my brother. Rs 23.45
+Bank Transfers,Paypal payment transfer. Rs 5.46
+Entertainment,Siriusxm payment. Rs 24.74
+Bank Transfers,Received $60 from a friend as a reimbursement. Rs 60
+Entertainment,An annual membership subscription cost. Rs 54.95
+Bank Transfers,ATM withdrawal from TD Bank. Rs 120
+Bank Transfers,Monthly fees associated with the account. Rs 7
+Entertainment,This is a payment for my Netflix subscription. Rs 19.99
+Entertainment,Peacock streaming service add on Fee (monthly premium). Rs 5
+Bank Transfers,Automatic funds transfer to a Stash investment account. Rs 5
+Entertainment,Monthly automatic premium Spotify payment. Rs 10.69
+Entertainment,This was for my Amazon Prime membership. Rs 6.59
+Entertainment,I bought a CD. Rs 13.24
+Entertainment,I paid for my Netflix subscription. Rs 16.79
+Entertainment,A family visit to a children's place centre. Rs 28.5
+Entertainment,Movie Rental. Rs 5.34
