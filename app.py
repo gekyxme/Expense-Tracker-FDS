@@ -1,4 +1,5 @@
 from flask import Flask, request, jsonify
+from flask_cors import CORS
 import joblib
 import re
 
@@ -17,6 +18,7 @@ def extract_expense(input_text):
     return None
 
 app = Flask(__name__)
+CORS(app)
 
 # Load trained model and vectorizer
 classifier = joblib.load('./models/exp_classifier.joblib')

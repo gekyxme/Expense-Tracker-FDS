@@ -1,0 +1,220 @@
+body {
+    font-family: 'Marlin Soft SQ', Arial, sans-serif; /* Specify 'Marlin Soft SQ' as the first choice */
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 500px;
+    margin: 20px auto;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* .chat-header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.chat-box {
+    height: 250px;
+    overflow-y: auto;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+} */
+
+.user-message {
+    background-color: #f0f0f0;
+    color: #3138fa;
+    padding: 8px 12px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    max-width: 70%;
+    word-wrap: break-word;
+    float: left;
+}
+
+/* .bot-message {
+    background-color: #e3f2fd;
+    color: #333;
+    padding: 8px 12px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    max-width: 70%;
+    word-wrap: break-word;
+    float: right;
+} */
+
+
+/* .input-container {
+    display: flex;
+    padding: 10px;
+    background-color: #fff;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+} */
+
+/* .input-message {
+    flex-grow: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    margin-right: 10px;
+} */
+
+/* .send-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+} */
+
+.send-button:hover {
+    background-color: #0056b3;
+}
+
+.chat-header {
+    background-color: #383cfc; /* Dark blue background */
+    color: #fff; /* White text color */
+    padding: 10px;
+    text-align: center;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+
+    background-image: url('noise-light.png'); /* Specify the path to your image */
+    position: relative;
+}
+
+.chat-box {
+    height: 250px;
+    overflow-y: auto;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    background: #fefdec; 
+}
+
+.input-container {
+    display: flex;
+    padding: 10px;
+    background: #383cfc;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+
+    background-image: url('noise-light.png'); /* Specify the path to your image */
+    position: relative;
+}
+
+.send-button {
+  padding: 0.6em 2em;
+  border: none;
+  outline: none;
+  color: #2703c3;
+  background: #fefeff; /* Button color */
+  cursor: pointer;
+  position: relative;
+  z-index: 0;
+  border-radius: 10px;
+}
+
+.send-button:before {
+  content: "";
+  background: linear-gradient(
+    45deg,
+    #2703c3,
+    #383cfc
+  ); /* Gradient */
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  background-size: 400%;
+  z-index: -1;
+  filter: blur(5px);
+  width: calc(100% + 4px);
+  height: calc(100% + 4px);
+  animation: glowingSendButton 20s linear infinite;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+  border-radius: 10px;
+}
+
+@keyframes glowingSendButton {
+  0% {
+    background-position: 0 0;
+  }
+  50% {
+    background-position: 400% 0;
+  }
+  100% {
+    background-position: 0 0;
+  }
+}
+
+.send-button:active {
+  color: #fefeff;
+}
+
+.send-button:active:after {
+  background: transparent;
+}
+
+.send-button:hover:before {
+  opacity: 1;
+}
+
+.send-button:after {
+  z-index: -1;
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: #fefeff;
+  left: 0;
+  top: 0;
+  border-radius: 10px;
+}
+
+.input-message {
+    flex-grow: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    margin-right: 10px;
+    color: #3138fa; /* Text color inside the input box */
+    background-color: #fefeff; /* Background color of the input box */
+  }
+  
+  .bot-message {
+    background-color: #3138fa; /* Background color of the response message */
+    color: #fefeff; /* Text color of the response message */
+    padding: 8px 12px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    max-width: 70%;
+    word-wrap: break-word;
+    float: right;
+  }
+  
+  
+  /* Adjust scrollbar width and color */
+.chat-box::-webkit-scrollbar {
+    width: 8px; /* Set custom width for scrollbar */
+}
+
+.chat-box::-webkit-scrollbar-track {
+    background: transparent; /* Set transparent background for scrollbar track */
+}
+
+.chat-box::-webkit-scrollbar-thumb {
+    background: #383cfc; /* Set custom color for scrollbar thumb */
+    border-radius: 10px; /* Add border radius to scrollbar thumb */
+}
